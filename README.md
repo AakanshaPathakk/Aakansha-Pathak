@@ -1,6 +1,6 @@
 👋 Hey there, I'm Aakansha👋!
 
-💼** Data Consultant | Dashboard Creator | Power BI | SQL | Python**
+💼Data Consultant | Dashboard Creator | Power BI | SQL | Python
 
 In the dynamic world of data, I weave insights and stories. With over 4+ years of experience, I've mastered the art of crafting end-to-end data solutions that speak volumes—whether it's illuminating internal processes or enhancing external client experiences. As a passionate dashboard creator, I thrive on transforming raw data into visual narratives that captivate and inform.
 
